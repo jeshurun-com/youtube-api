@@ -1,23 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import KalleHallden from "./components/KalleHallden";
+// import './App.css';
+// import './index.css';
 
-function App() {
+const App = () => {
+  const apiKey = 'AIzaSyAXepgz7hf27r3wCilGULIpGszcmXRB99g';
+  const channelId = 'UCDu3Eai86fidkAZco0l8TzA';
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <KalleHallden apiKey={apiKey} channelId={channelId} />
     </div>
   );
 }
