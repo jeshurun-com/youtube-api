@@ -1,0 +1,266 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "Pv74tYyp2LrvevODdGeRoxHf-DU",
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "3nVZyozRGriuzb1AnBpZOo03ROY",
+        "id": "UEw1dFZKdGpveEt6b3dpWmJseHd0WGRXYV8xcGFHdXhMZy4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+          "publishedAt": "2024-06-11T06:22:35Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #5",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code\n\nFramework: Flutter\nLanguage: Dart\nSimulator: Xcode ios sim\nText editor: Visual Studio Code\nUI Design software: Adobe XD\nComputer: Macbook Pro M1 (2020) 16G",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MQe41k7OOjs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MQe41k7OOjs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MQe41k7OOjs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MQe41k7OOjs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MQe41k7OOjs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "PL5tVJtjoxKzowiZblxwtXdWa_1paGuxLg",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "MQe41k7OOjs"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        },
+        "contentDetails": {
+          "videoId": "MQe41k7OOjs",
+          "videoPublishedAt": "2024-06-11T09:42:27Z"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "xO2na9CFSGJslRC3OCqZIVUQ2iM",
+        "id": "UEw1dFZKdGpveEt6b3dpWmJseHd0WGRXYV8xcGFHdXhMZy41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+          "publishedAt": "2024-06-10T06:00:49Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #4",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5ivvo27fpkA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5ivvo27fpkA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5ivvo27fpkA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5ivvo27fpkA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5ivvo27fpkA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "PL5tVJtjoxKzowiZblxwtXdWa_1paGuxLg",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5ivvo27fpkA"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        },
+        "contentDetails": {
+          "videoId": "5ivvo27fpkA",
+          "videoPublishedAt": "2024-06-10T10:27:28Z"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "mmOy-N7P3W4OQw6HGdMvPwckQK4",
+        "id": "UEw1dFZKdGpveEt6b3dpWmJseHd0WGRXYV8xcGFHdXhMZy4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+          "publishedAt": "2024-06-09T06:21:07Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #3",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hdheuiwmyOw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hdheuiwmyOw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hdheuiwmyOw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hdheuiwmyOw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hdheuiwmyOw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "PL5tVJtjoxKzowiZblxwtXdWa_1paGuxLg",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "hdheuiwmyOw"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        },
+        "contentDetails": {
+          "videoId": "hdheuiwmyOw",
+          "videoPublishedAt": "2024-06-09T11:19:19Z"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Qu1-VUxR-pl8P2hX9VX8exK-Ync",
+        "id": "UEw1dFZKdGpveEt6b3dpWmJseHd0WGRXYV8xcGFHdXhMZy4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+          "publishedAt": "2024-05-28T07:17:19Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #2",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jj2tzLo4HZ4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jj2tzLo4HZ4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jj2tzLo4HZ4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Jj2tzLo4HZ4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Jj2tzLo4HZ4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "PL5tVJtjoxKzowiZblxwtXdWa_1paGuxLg",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Jj2tzLo4HZ4"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        },
+        "contentDetails": {
+          "videoId": "Jj2tzLo4HZ4",
+          "videoPublishedAt": "2024-05-28T21:08:58Z"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "dZ3mqCsWOrGRCNCcS2idFePGXJs",
+        "id": "UEw1dFZKdGpveEt6b3dpWmJseHd0WGRXYV8xcGFHdXhMZy41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2024-05-27T08:57:33Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #1",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dKQ6KYUJiZQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dKQ6KYUJiZQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dKQ6KYUJiZQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dKQ6KYUJiZQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dKQ6KYUJiZQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "PL5tVJtjoxKzowiZblxwtXdWa_1paGuxLg",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "dKQ6KYUJiZQ"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        },
+        "contentDetails": {
+          "videoId": "dKQ6KYUJiZQ",
+          "videoPublishedAt": "2024-05-27T14:59:05Z"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+  

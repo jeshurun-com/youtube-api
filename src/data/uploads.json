@@ -1,0 +1,2362 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "13bLhXsAIwtTxwHV_gsYfwJFgzU",
+    "nextPageToken": "EAAafVBUOkNESWlFREJCT1VVMVJFTkRRVVUwUlRBMU1FWW9BVWlYX09PUDR2aUdBMUFCV2pnaVEyaG9WbFpXWkhsTlJ6RTBUbFJyTTFKSE5WUlNNSGhIWVhwR1dGcHVXbFJoTVVWVFJFRnFYMmt0TFhwQ2FFUlpjRjh6VUVGbkln",
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "hxxdqeqAb_AWFjIl4HNFAyGCPys",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLjdubE9zZTdONEFv",
+        "snippet": {
+          "publishedAt": "2024-06-25T09:12:33Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #8",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code\n\nFramework: Flutter\nLanguage: Dart\nSimulator: Xcode ios sim\nText editor: Visual Studio Code\nUI Design software: Adobe XD\nComputer: Macbook Pro M1 (2020) 16G\n\nSupport\nPatreon: https://www.patreon.com/hallden\nBitcoin: bc1q6hcfq2p6cd498wexntkpr7p2z6t7hxmtp77pkz",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7nlOse7N4Ao/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7nlOse7N4Ao/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7nlOse7N4Ao/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7nlOse7N4Ao/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7nlOse7N4Ao/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "7nlOse7N4Ao"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "J6toJMAlvP3nKjdjzVRyi88PsrI",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLlN6b21aR1h5NXdZ",
+        "snippet": {
+          "publishedAt": "2024-06-24T12:03:14Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #7",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code\n\nFramework: Flutter\nLanguage: Dart\nSimulator: Xcode ios sim\nText editor: Visual Studio Code\nUI Design software: Adobe XD\nComputer: Macbook Pro M1 (2020) 16G\n\nSupport\nPatreon: https://www.patreon.com/hallden\nBitcoin: bc1q6hcfq2p6cd498wexntkpr7p2z6t7hxmtp77pkz",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SzomZGXy5wY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SzomZGXy5wY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SzomZGXy5wY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SzomZGXy5wY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SzomZGXy5wY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "SzomZGXy5wY"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "PwDC_XI3Eu8whSLOi2nLcHLNS80",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLlE1SVVNcmpSYVBV",
+        "snippet": {
+          "publishedAt": "2024-06-23T19:41:45Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "The golden ticket",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q5IUMrjRaPU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q5IUMrjRaPU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q5IUMrjRaPU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q5IUMrjRaPU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q5IUMrjRaPU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Q5IUMrjRaPU"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "1tunPfZkJW84c_zS7ChoF7E1U7Q",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLkRkT2RTbDdrN2ZV",
+        "snippet": {
+          "publishedAt": "2024-06-23T19:40:47Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Do something",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DdOdSl7k7fU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DdOdSl7k7fU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DdOdSl7k7fU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DdOdSl7k7fU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DdOdSl7k7fU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "DdOdSl7k7fU"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "JKxLibD75jXcu_PNmpVJx0tU6bw",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLlVzby1PWDZfVTRr",
+        "snippet": {
+          "publishedAt": "2024-06-19T14:15:06Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "No sponsors",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Uso-OX6_U4k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Uso-OX6_U4k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Uso-OX6_U4k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Uso-OX6_U4k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Uso-OX6_U4k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Uso-OX6_U4k"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "nFG4fszDXoUOrqcDSNMow59dE7c",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLmJmRVdtTnV0M2hZ",
+        "snippet": {
+          "publishedAt": "2024-06-19T14:13:06Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "BEST PROGRAMMING LANGUAGE",
+          "description": "BEST PROGRAMMING LANGUAGE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bfEWmNut3hY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bfEWmNut3hY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bfEWmNut3hY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bfEWmNut3hY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bfEWmNut3hY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 5,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "bfEWmNut3hY"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "V6oAf0IKPfJXoiZctsQ6e6T9yEw",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLnE0TWYzbEV0UDdj",
+        "snippet": {
+          "publishedAt": "2024-06-18T09:32:37Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Hobbies",
+          "description": "Hobbies",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q4Mf3lEtP7c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q4Mf3lEtP7c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q4Mf3lEtP7c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/q4Mf3lEtP7c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/q4Mf3lEtP7c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 6,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "q4Mf3lEtP7c"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "HBCgyE-O45UBRdsV9uCKwSPywh4",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLjY5b0VuS1pUYjhz",
+        "snippet": {
+          "publishedAt": "2024-06-18T09:30:57Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Why I stream",
+          "description": "Why I Stream",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/69oEnKZTb8s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/69oEnKZTb8s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/69oEnKZTb8s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/69oEnKZTb8s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/69oEnKZTb8s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 7,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "69oEnKZTb8s"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "vtC2qOrHhraN1xSf0fsWOEyPR0A",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLlZSeTVQN2pzdGdn",
+        "snippet": {
+          "publishedAt": "2024-06-18T08:20:21Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Native development vs cross platform",
+          "description": "Native development vs cross platform",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VRy5P7jstgg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VRy5P7jstgg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VRy5P7jstgg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VRy5P7jstgg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VRy5P7jstgg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 8,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "VRy5P7jstgg"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "JGf4Y0ZD88d1yVt5ITxyTgTNpbk",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLk14YmVndHgxRFZj",
+        "snippet": {
+          "publishedAt": "2024-06-17T10:20:55Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #6",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code\n\nFramework: Flutter\nLanguage: Dart\nSimulator: Xcode ios sim\nText editor: Visual Studio Code\nUI Design software: Adobe XD\nComputer: Macbook Pro M1 (2020) 16G",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Mxbegtx1DVc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Mxbegtx1DVc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Mxbegtx1DVc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Mxbegtx1DVc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Mxbegtx1DVc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 9,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Mxbegtx1DVc"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "CnVZyNQW_7ffcZc2BCQXU8UZ2qM",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLlJNNm9YZGRtbmE4",
+        "snippet": {
+          "publishedAt": "2024-06-12T12:17:04Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Chat tells me to install flutter theme",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RM6oXddmna8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RM6oXddmna8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RM6oXddmna8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RM6oXddmna8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RM6oXddmna8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 10,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "RM6oXddmna8"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Wm4qxTUNpQsmx958ZV9eRvEOVOA",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLk1RZTQxazdPT2pz",
+        "snippet": {
+          "publishedAt": "2024-06-11T09:42:27Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #5",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code\n\nFramework: Flutter\nLanguage: Dart\nSimulator: Xcode ios sim\nText editor: Visual Studio Code\nUI Design software: Adobe XD\nComputer: Macbook Pro M1 (2020) 16G",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MQe41k7OOjs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MQe41k7OOjs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MQe41k7OOjs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MQe41k7OOjs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MQe41k7OOjs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 11,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "MQe41k7OOjs"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Gj6Fs3FCSUVzGQcD3_MQfFvPooM",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLjVpdnZvMjdmcGtB",
+        "snippet": {
+          "publishedAt": "2024-06-10T10:27:28Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #4",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5ivvo27fpkA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5ivvo27fpkA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5ivvo27fpkA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5ivvo27fpkA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5ivvo27fpkA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 12,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5ivvo27fpkA"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "AurxeawvNyoYNimyxvcV2pInvT0",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLmhkaGV1aXdteU93",
+        "snippet": {
+          "publishedAt": "2024-06-09T11:19:19Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #3",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hdheuiwmyOw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hdheuiwmyOw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hdheuiwmyOw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hdheuiwmyOw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hdheuiwmyOw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 13,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "hdheuiwmyOw"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "_QZ0NXJx70En21uwflILom-mKD0",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLkJSTC10WWFHQnEw",
+        "snippet": {
+          "publishedAt": "2024-06-04T21:24:17Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Streaming chat combiner app",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code\nMission: create an app so that I can keep track of all my streaming chats in one place.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BRL-tYaGBq0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BRL-tYaGBq0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BRL-tYaGBq0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BRL-tYaGBq0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BRL-tYaGBq0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 14,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "BRL-tYaGBq0"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "pwL3PN4NrAD42m4VIkCvZNquBhQ",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLkpqMnR6TG80SFo0",
+        "snippet": {
+          "publishedAt": "2024-05-28T21:08:58Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #2",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jj2tzLo4HZ4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jj2tzLo4HZ4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jj2tzLo4HZ4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Jj2tzLo4HZ4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Jj2tzLo4HZ4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 15,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Jj2tzLo4HZ4"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Oo4zP8oiBGOybCjEJC3WDJ84iMA",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLmRLUTZLWVVKaVpR",
+        "snippet": {
+          "publishedAt": "2024-05-27T14:59:05Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Code With Me - Timetracking app #1",
+          "description": "Hang out while I code an app, you can ask me questions, help me solve problems or just watch me code",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dKQ6KYUJiZQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dKQ6KYUJiZQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dKQ6KYUJiZQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dKQ6KYUJiZQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dKQ6KYUJiZQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 16,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "dKQ6KYUJiZQ"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "c_-B6166oCL9QPrVbkkHn9wIvWE",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLkEyR29fYmgwYjFZ",
+        "snippet": {
+          "publishedAt": "2024-05-22T19:13:47Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "I Spent 120 Hours Coding This!",
+          "description": "I Spent 120 Hours Coding This!\nThis is a python automation that became the biggest one I've ever done..\n\nStock footage: https://artgrid.io/Kalle-353717\n\nCamera gear\n\n\nMain Camera: https://amzn.to/48cR80a\nB- Cam: https://amzn.to/48cR80a\nMain lens: https://amzn.to/49vuxga\nB-cam lens: https://amzn.to/49rnXY1\n\nMain light: https://amzn.to/49xJRZX\nFill light: https://amzn.to/3w9f0Et\nSoftbox main light: https://amzn.to/3ukLiMq\n\nMicrophone: https://amzn.to/49fbOWM\nAudio recorder: https://amzn.to/3waPsa9\n\n\nCONTACT: contact@kalletech.com\nFollow me on instagram: https://www.instagram.com/kallehallden/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/A2Go_bh0b1Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/A2Go_bh0b1Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/A2Go_bh0b1Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/A2Go_bh0b1Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/A2Go_bh0b1Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 17,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "A2Go_bh0b1Y"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Tqr70CrAaW55TaRYF9w6o6MxlG0",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLmdKQkViWFhObHNV",
+        "snippet": {
+          "publishedAt": "2024-05-02T11:00:46Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "I’ve spent 100 hours coding this python automation",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gJBEbXXNlsU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gJBEbXXNlsU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gJBEbXXNlsU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gJBEbXXNlsU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gJBEbXXNlsU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 18,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gJBEbXXNlsU"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "WwF4GVqV6SvIrNsffx0FrcV11hE",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLmdPTUtuUlhrdjZV",
+        "snippet": {
+          "publishedAt": "2024-04-19T11:00:41Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Coding an app Day 9  My Biggest Weakness",
+          "description": "Coding an app Day 9  My Biggest Weakness\n\nStock footage: https://artgrid.io/Kalle-353717\n\nCamera gear\n\n\nMain Camera: https://amzn.to/48cR80a\nB- Cam: https://amzn.to/48cR80a\nMain lens: https://amzn.to/49vuxga\nB-cam lens: https://amzn.to/49rnXY1\n\nMain light: https://amzn.to/49xJRZX\nFill light: https://amzn.to/3w9f0Et\nSoftbox main light: https://amzn.to/3ukLiMq\n\nMicrophone: https://amzn.to/49fbOWM\nAudio recorder: https://amzn.to/3waPsa9\n\n\nCONTACT: contact@kalletech.com\nFollow me on instagram: https://www.instagram.com/kallehallden/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gOMKnRXkv6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gOMKnRXkv6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gOMKnRXkv6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gOMKnRXkv6U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gOMKnRXkv6U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 19,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gOMKnRXkv6U"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "5p1wlOO35CVNOw5dFvFzknjw-Us",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLmowUHBYX0hPZkl3",
+        "snippet": {
+          "publishedAt": "2024-04-18T10:00:37Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Coding an app Day 4",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j0PpX_HOfIw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j0PpX_HOfIw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j0PpX_HOfIw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/j0PpX_HOfIw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/j0PpX_HOfIw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 20,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "j0PpX_HOfIw"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "hNNUT3pfH9VoZQ3lkZd0ve5UTlk",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLkdMNW9pSHBuczNZ",
+        "snippet": {
+          "publishedAt": "2024-04-17T10:00:12Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Coding an app Day 3",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GL5oiHpns3Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GL5oiHpns3Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GL5oiHpns3Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GL5oiHpns3Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GL5oiHpns3Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 21,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "GL5oiHpns3Y"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "3XN9yGtJ7y43ZmN8uX1AIKAmFLA",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLmw0aFdSMTJxbHZJ",
+        "snippet": {
+          "publishedAt": "2024-04-16T10:00:44Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Coding an App Day 8 - Timetracking feature works!",
+          "description": "Coding a productivity app in Flutter day 8\n\nStock footage: https://artgrid.io/Kalle-353717\n\nCamera gear\n\n\nMain Camera: https://amzn.to/48cR80a\nB- Cam: https://amzn.to/48cR80a\nMain lens: https://amzn.to/49vuxga\nB-cam lens: https://amzn.to/49rnXY1\n\nMain light: https://amzn.to/49xJRZX\nFill light: https://amzn.to/3w9f0Et\nSoftbox main light: https://amzn.to/3ukLiMq\n\nMicrophone: https://amzn.to/49fbOWM\nAudio recorder: https://amzn.to/3waPsa9\n\n\nCONTACT: contact@kalletech.com\nFollow me on instagram: https://www.instagram.com/kallehallden/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l4hWR12qlvI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l4hWR12qlvI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l4hWR12qlvI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/l4hWR12qlvI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/l4hWR12qlvI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 22,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "l4hWR12qlvI"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "TWNs89Yy0jZVbJPlPOZ40C3vHn4",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLmVEemdUU1hicVFJ",
+        "snippet": {
+          "publishedAt": "2024-04-16T09:21:17Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Coding an app Day 2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eDzgTSXbqQI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eDzgTSXbqQI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eDzgTSXbqQI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eDzgTSXbqQI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eDzgTSXbqQI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 23,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "eDzgTSXbqQI"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "2fyAMupaYvGDwYogAPWfhl3EDy8",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLnhHX1lJdEZlemlZ",
+        "snippet": {
+          "publishedAt": "2024-04-15T18:48:00Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Coding an app Day 1",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xG_YItFeziY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xG_YItFeziY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xG_YItFeziY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xG_YItFeziY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xG_YItFeziY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 24,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xG_YItFeziY"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "h3gXYUIy_qUiM7pO7HrFnkiePTc",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLnV1X2ZyMjVzbEdj",
+        "snippet": {
+          "publishedAt": "2024-04-11T10:00:53Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Coding an App Day 7 - Somewhat usable",
+          "description": "Coding An App Day 7 - Finally usable!\n\nStock footage: https://artgrid.io/Kalle-353717\n\nCamera gear\n\nMain Camera: https://amzn.to/48cR80a\nB- Cam: https://amzn.to/48cR80a\nMain lens: https://amzn.to/49vuxga\nB-cam lens: https://amzn.to/49rnXY1\n\nMain light: https://amzn.to/49xJRZX\nFill light: https://amzn.to/3w9f0Et\nSoftbox main light: https://amzn.to/3ukLiMq\n\nMicrophone: https://amzn.to/49fbOWM\nAudio recorder: https://amzn.to/3waPsa9\n\n\nCONTACT: contact@kalletech.com\nFollow me on instagram: https://www.instagram.com/kallehallden/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uu_fr25slGc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uu_fr25slGc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uu_fr25slGc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uu_fr25slGc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uu_fr25slGc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 25,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "uu_fr25slGc"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "UQGsLBlE7qFFjJyBxjJh-5dPOeU",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLkJKd1llMFg4V0Nj",
+        "snippet": {
+          "publishedAt": "2024-04-09T10:00:08Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Coding an App Day 6 - Implementing Bloc in Flutter",
+          "description": "Coding An App Day 6 - Backend Development\n\nStock footage: https://artgrid.io/Kalle-353717\n\nCamera gear\n\nMain Camera: https://amzn.to/3xufZji\nB- Cam: https://amzn.to/48cR80a\nMain lens: https://amzn.to/49vuxga\nB-cam lens: https://amzn.to/49rnXY1\n\nMain light: https://amzn.to/49xJRZX\nFill light: https://amzn.to/3w9f0Et\nSoftbox main light: https://amzn.to/3ukLiMq\n\nMicrophone: https://amzn.to/49fbOWM\nAudio recorder: https://amzn.to/3waPsa9\n\n\nCONTACT: contact@kalletech.com\nFollow me on instagram: https://www.instagram.com/kallehallden/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BJwYe0X8WCc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BJwYe0X8WCc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BJwYe0X8WCc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BJwYe0X8WCc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BJwYe0X8WCc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 26,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "BJwYe0X8WCc"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "65UwkRFdiLmvIi15wM5meS61Sq4",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLklDak9KVm8wVTA0",
+        "snippet": {
+          "publishedAt": "2024-04-02T17:00:45Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Coding an App Day 5 - Loading SQL data into Flutter",
+          "description": "Finishing loading the SQL database into the frontend of the Flutter app\n\nStock footage: https://artgrid.io/Kalle-353717\n\nCamera gear\n\nMain Camera: https://amzn.to/48cR80a\nB- Cam: https://amzn.to/48cR80a\nMain lens: https://amzn.to/49vuxga\nB-cam lens: https://amzn.to/49rnXY1\n\nMain light: https://amzn.to/49xJRZX\nFill light: https://amzn.to/3w9f0Et\nSoftbox main light: https://amzn.to/3ukLiMq\n\nMicrophone: https://amzn.to/49fbOWM\nAudio recorder: https://amzn.to/3waPsa9\n\n\nCONTACT: contact@kalletech.com\nFollow me on instagram: https://www.instagram.com/kallehallden/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ICjOJVo0U04/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ICjOJVo0U04/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ICjOJVo0U04/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ICjOJVo0U04/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ICjOJVo0U04/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 27,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ICjOJVo0U04"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "ZFC_GtugXRSGtzLVBEUD_YcdtgE",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLkY3THg1d0tzU3dZ",
+        "snippet": {
+          "publishedAt": "2024-03-28T11:00:23Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Day In The Life Of A Programmer UNEDITED",
+          "description": "Day In The Life Of A Programmer UNEDITED\n\nStock footage: https://artgrid.io/Kalle-353717\n\nCamera gear\n\nMain Camera: https://amzn.to/48cR80a\nB- Cam: https://amzn.to/48cR80a\nMain lens: https://amzn.to/49vuxga\nB-cam lens: https://amzn.to/49rnXY1\n\nMain light: https://amzn.to/49xJRZX\nFill light: https://amzn.to/3w9f0Et\nSoftbox main light: https://amzn.to/3ukLiMq\n\nMicrophone: https://amzn.to/49fbOWM\nAudio recorder: https://amzn.to/3waPsa9\n\n\nCONTACT: contact@kalletech.com\nFollow me on instagram: https://www.instagram.com/kallehallden/\n\n\n\n00:00 Morning routine\n05:40 Leonardo Da Vinci Notebook\n08:02 Laundry\n10:04 Coding session 1\n11:59 The productivityapp no one uses\n14:44 Coding session 1 continues\n01:38:53 Result Coding Session 1\n01:40:55 Breakfast smoothie\n01:49:26 Coding session 2\n03:45:57 Result Coding Session 2\n03:47:41 Lunch bowl\n03:53:27 new shoes\n03:54:36 Going for a drive\n03:59:12 Nap in the car\n04:01:03 Doctors appointment\n04:01:06 Driving to the supermarket\n04:02:22 Grocery shopping\n04:22:11 Driving home\n04:23:45 Unpacking groceries\n04:26:04 Afternoon snack\n04:34:54 How to peel an orange\n04:37:38 Folding laundry\n04:43:02 Catching up with a friend\n04:43:24 Evening routine + end of the day video recap",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F7Lx5wKsSwY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F7Lx5wKsSwY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F7Lx5wKsSwY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/F7Lx5wKsSwY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/F7Lx5wKsSwY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 28,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "F7Lx5wKsSwY"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "XZDZe5qOiV_X_xjSMcAkjro0YxU",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLkZ1WU04WTVHWDNB",
+        "snippet": {
+          "publishedAt": "2024-03-26T11:00:13Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Coding an App Day 3 - SQL database in Flutter",
+          "description": "Creating an SQL database in flutter\n\nStock footage: https://artgrid.io/Kalle-353717\n\nCamera gear\n\nMain Camera: https://amzn.to/48cR80a\nB- Cam: https://amzn.to/48cR80a\nMain lens: https://amzn.to/49vuxga\nB-cam lens: https://amzn.to/49rnXY1\n\nMain light: https://amzn.to/49xJRZX\nFill light: https://amzn.to/3w9f0Et\nSoftbox main light: https://amzn.to/3ukLiMq\n\nMicrophone: https://amzn.to/49fbOWM\nAudio recorder: https://amzn.to/3waPsa9\n\n\nCONTACT: contact@kalletech.com\nFollow me on instagram: https://www.instagram.com/kallehallden/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FuYM8Y5GX3A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FuYM8Y5GX3A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FuYM8Y5GX3A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FuYM8Y5GX3A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FuYM8Y5GX3A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 29,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "FuYM8Y5GX3A"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "LKhTsrQR6wbpbwn6-67LhQszMMw",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLmt3Q2FrVERSb3FZ",
+        "snippet": {
+          "publishedAt": "2024-03-22T13:00:46Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Coding an App Day 2 - Flutter app with database",
+          "description": "Creating a database in Flutter for my time tracking app\n\nStock footage: https://artgrid.io/Kalle-353717\n\nCamera gear\n\nMain Camera: https://amzn.to/48cR80a\nB- Cam: https://amzn.to/48cR80a\nMain lens: https://amzn.to/49vuxga\nB-cam lens: https://amzn.to/49rnXY1\n\nMain light: https://amzn.to/49xJRZX\nFill light: https://amzn.to/3w9f0Et\nSoftbox main light: https://amzn.to/3ukLiMq\n\nMicrophone: https://amzn.to/49fbOWM\nAudio recorder: https://amzn.to/3waPsa9\n\nCONTACT: contact@kalletech.com\nFollow me on instagram: https://www.instagram.com/kallehallden/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kwCakTDRoqY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kwCakTDRoqY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kwCakTDRoqY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kwCakTDRoqY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kwCakTDRoqY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 30,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "kwCakTDRoqY"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "VTm2tYDidLHbFlEloJNH-gvzBFU",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLkhrR01KZE9HU2xV",
+        "snippet": {
+          "publishedAt": "2024-03-22T12:00:41Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "The effort of a single shot",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HkGMJdOGSlU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HkGMJdOGSlU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HkGMJdOGSlU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HkGMJdOGSlU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HkGMJdOGSlU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 31,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "HkGMJdOGSlU"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "JaUFrr9bjLT5rR40nUAM9Bxw14E",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLmxLRHR3ZDJiX3p3",
+        "snippet": {
+          "publishedAt": "2024-03-15T17:00:38Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "I'm building an app... after two years of no code",
+          "description": "I'm back to programming in Flutter. Once again it is time to code an app.\n\nCamera gear\n\n\nMain Camera: https://amzn.to/48cR80a\nB- Cam: https://amzn.to/48cR80a\nMain lens: https://amzn.to/49vuxga\nB-cam lens: https://amzn.to/49rnXY1\n\nMain light: https://amzn.to/49xJRZX\nFill light: https://amzn.to/3w9f0Et\nSoftbox main light: https://amzn.to/3ukLiMq\n\nMicrophone: https://amzn.to/49fbOWM\nAudio recorder: https://amzn.to/3waPsa9\n\n\nCONTACT: contact@kalletech.com\nFollow me on instagram: https://www.instagram.com/kallehallden/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lKDtwd2b_zw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lKDtwd2b_zw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lKDtwd2b_zw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lKDtwd2b_zw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lKDtwd2b_zw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 32,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "lKDtwd2b_zw"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "WVfUD-a4Wo8Vb03fWdEedGlHa3k",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLkc1N1pzVFc1d1Iw",
+        "snippet": {
+          "publishedAt": "2024-02-14T11:59:11Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "The power of compounding",
+          "description": "Full video on my channel!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G57ZsTW5wR0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G57ZsTW5wR0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G57ZsTW5wR0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/G57ZsTW5wR0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/G57ZsTW5wR0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 33,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "G57ZsTW5wR0"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "BrnaQcA7aIxmKZXFj0F8NvvpLjw",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLjFZdzZJS0FYWUE0",
+        "snippet": {
+          "publishedAt": "2024-02-14T11:58:49Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "THE INVESTOR MINDSET",
+          "description": "Full video on my channel!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1Yw6IKAXYA4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1Yw6IKAXYA4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1Yw6IKAXYA4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1Yw6IKAXYA4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1Yw6IKAXYA4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 34,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "1Yw6IKAXYA4"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "LvixFj8cJsetHxOchKzhEu4PGSo",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLlZqWlQ3QnloN0Vj",
+        "snippet": {
+          "publishedAt": "2024-02-14T07:33:57Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Why not to trust your bank with your investments",
+          "description": "Full video on my channel!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VjZT7Byh7Ec/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VjZT7Byh7Ec/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VjZT7Byh7Ec/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VjZT7Byh7Ec/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VjZT7Byh7Ec/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 35,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "VjZT7Byh7Ec"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "PDrLB4MRhAf7xHXl8f88lEbrhLI",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLm5lR1M0aVRIYjc4",
+        "snippet": {
+          "publishedAt": "2024-02-14T07:22:24Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Why you lose money when you sell stocks",
+          "description": "Full video on my channel!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/neGS4iTHb78/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/neGS4iTHb78/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/neGS4iTHb78/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/neGS4iTHb78/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/neGS4iTHb78/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 36,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "neGS4iTHb78"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "MZJiRrPy9OndO0dbRlpWsBidUvk",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLjFWbEw2SjBRYzlF",
+        "snippet": {
+          "publishedAt": "2024-02-13T11:36:55Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Perfect day in my life vs a real day in my life",
+          "description": "This is also an homage to 500 days of summer ’expectation vs reality’ scene",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1VlL6J0Qc9E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1VlL6J0Qc9E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1VlL6J0Qc9E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1VlL6J0Qc9E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1VlL6J0Qc9E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 37,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "1VlL6J0Qc9E"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "2lHKgoSQDJQCl0MEbwNCfQ_3Xk0",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLkg3LTkyY2RRaUVV",
+        "snippet": {
+          "publishedAt": "2024-02-09T12:00:16Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "The One Book You Need on Investing",
+          "description": "The One Book You Need on Investing\nFollow me on instagram: https://www.instagram.com/kallehallden/\n\nProducts mentioned\nBook: https://amzn.to/48at8uz\n\nCamera gear\nMain Camera: https://amzn.to/48cR80a\nB- Cam: https://amzn.to/48cR80a\nMain lens: https://amzn.to/49vuxga\nB-cam lens: https://amzn.to/49rnXY1\n\nMain light: https://amzn.to/49xJRZX\nFill light: https://amzn.to/3w9f0Et\nSoftbox main light: https://amzn.to/3ukLiMq\n\nMicrophone: https://amzn.to/49fbOWM\nAudio recorder: https://amzn.to/3waPsa9\n\n\nCONTACT: contact@kalletech.com\n\nStock footage: https://artgrid.io/Kalle-353717\n\n00:00 Intro\n00:13 The biggest investing mistake you can make\n03:00 The investor mindset\n05:19 Building a strong portfolio\n08:15 The psychology of investing\n10:52 Emergency fund\n11:48 The most powerful investing concept \n14:18 When and how to sell",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H7-92cdQiEU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H7-92cdQiEU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H7-92cdQiEU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H7-92cdQiEU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/H7-92cdQiEU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 38,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "H7-92cdQiEU"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "VO6OCEYU-90lNSZE5x9QFv_W8V8",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLjdIeXhreER1bThv",
+        "snippet": {
+          "publishedAt": "2024-01-26T17:00:05Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "How to deal with setbacks",
+          "description": "Duality Mindset - How to deal with setbacks",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7HyxkxDum8o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7HyxkxDum8o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7HyxkxDum8o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7HyxkxDum8o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7HyxkxDum8o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 39,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "7HyxkxDum8o"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "e7BRLcYzj8c4K4rhOIvZ9m4ETxE",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLjVkakRqNG5rUURF",
+        "snippet": {
+          "publishedAt": "2023-12-16T20:21:57Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "How To Eat For Gut Health",
+          "description": "How I Eat For Gut Health\n\nMy shoppinglist:\n- Quark/cottage cheese/yogurt\n- Eggs\n- Chicken\n- Minced meat\n- Almondbutter\n- Coconut milk\n- Coconut oil\n- Oats\n- Pasta\n- Cinnamon\n- Cardamom\n- Turmeric root\n- Corn\n- Honey\n- Walnuts\n- Chia seeds\n- Lentils\n- Rice\n- Broccoli\n- Potatoes\n- Sweet potato\n- Beets (fresh)\n- Shelled peas\n- Oranges\n- Pears\n- Celery \n- Cabbage\n- Mushrooms \n- Cucumber \n- Cantalope\n- Grapes\n- Lime\n- Peppers\n- Carrots\n- Onion\n- Garlic\n- Coriander \n- Basil\n- Parsley \n- Olive oil\n- Magnesium\n- Zink\n- Vitamin D\n- Omega 3\n- Cod\n- Kale\n- Spinach\n\nStudy mentioned:\nhttps://www.sciencedirect.com/science/article/pii/S0929664618305552#bib22\n\n00:00 Goal With Video\n01:23 Science Behind Gut Health\n04:07 How to improve your gut health\n04:26 Level 1 Fiber\n05:16 Level 2 Vitamins and micronutrients\n06:27 Level 3 Probiotic foods\n07:14 Level 4 reduce refined sugars\n11:28 How I eat for gut health\n11:38 Find no prep foods\n13:05 Fresh herbs\n14:09 Fruits\n14:57 My diet\n15:35 Breakfast\n15:59 Lunch - Smoothie recipe\n17:20 Dinner\n19:02 Evening snack\n21:02 Final thoughts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5djDj4nkQDE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5djDj4nkQDE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5djDj4nkQDE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5djDj4nkQDE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5djDj4nkQDE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 40,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5djDj4nkQDE"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "q52Ygzr8XY7N11_-LIZ4sO8CtgY",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLlFoemlKMGZTT0hN",
+        "snippet": {
+          "publishedAt": "2023-11-10T12:00:22Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "A Perfect Day VS An Actual Day In My Life...",
+          "description": "A Perfect Day VS An Actual Day In My Life...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QhziJ0fSOHM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QhziJ0fSOHM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QhziJ0fSOHM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QhziJ0fSOHM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QhziJ0fSOHM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 41,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "QhziJ0fSOHM"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "6yU3mttX_OXCPW-ZhDbIpUboIhI",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLnh5dTdrLWlWekZz",
+        "snippet": {
+          "publishedAt": "2023-11-06T13:48:07Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Winter is coming",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xyu7k-iVzFs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xyu7k-iVzFs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xyu7k-iVzFs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xyu7k-iVzFs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xyu7k-iVzFs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 42,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xyu7k-iVzFs"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "0sc4wdT-SZ0gJ-p4vYxuAI0NSkM",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLlVPYldnVzFmd2JN",
+        "snippet": {
+          "publishedAt": "2023-09-23T15:00:20Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "The Power Of Boredom",
+          "description": "How to use boredom to become more productive. This video is about becoming more productive by doing nothing.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UObWgW1fwbM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UObWgW1fwbM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UObWgW1fwbM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UObWgW1fwbM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UObWgW1fwbM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 43,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "UObWgW1fwbM"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "fIby1BsbyxkOJ1J0hYSiXUn2MvY",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLlI5NVNKVm9BQ3dB",
+        "snippet": {
+          "publishedAt": "2023-08-22T17:00:14Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Learning Guitar In 30 Days (Zero Experience)",
+          "description": "I tried to learn to play guitar in 30 days with no experience. I practiced guitar everyday for 30 days. To see how good can you get at guitar in 30 days?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R95SJVoACwA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R95SJVoACwA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R95SJVoACwA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/R95SJVoACwA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/R95SJVoACwA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 44,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "R95SJVoACwA"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "-vJyqOE9BGiNlNvsna1qcTCDvCQ",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLjBXZTdtZ2VhTjVZ",
+        "snippet": {
+          "publishedAt": "2023-07-07T17:48:53Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Making a Pirate Style Shirt in 2023",
+          "description": "Making a Pirate Style Shirt in 2023",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0We7mgeaN5Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0We7mgeaN5Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0We7mgeaN5Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0We7mgeaN5Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0We7mgeaN5Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 45,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "0We7mgeaN5Y"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "g8vhNv3xmABI1UOSojYqQx01ZXI",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLlExYW4yd0FvZ3NJ",
+        "snippet": {
+          "publishedAt": "2023-06-15T12:00:28Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "STRAY",
+          "description": "A film about figuring out what’s next",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q1an2wAogsI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q1an2wAogsI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q1an2wAogsI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q1an2wAogsI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q1an2wAogsI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 46,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Q1an2wAogsI"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Ymcqkrdz8PehoBli6poW0sWYv9c",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLm1lQmFqVE02cFJV",
+        "snippet": {
+          "publishedAt": "2023-03-31T10:00:39Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "30 Days With The Nreal Air AR Glasses!",
+          "description": "I Tried Smart Glasses For 30 Days\nCheck out the Nreal Air Glasses: https://amzn.to/3SWfUda\n\nMy nature channel: https://www.youtube.com/watch?v=3go8NpsEf3k",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/meBajTM6pRU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/meBajTM6pRU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/meBajTM6pRU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/meBajTM6pRU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/meBajTM6pRU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 47,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "meBajTM6pRU"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "QquwVlCtji-3J0zGFCIrq9NLyIY",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLmV3eklyWXNvQ0hV",
+        "snippet": {
+          "publishedAt": "2023-01-04T11:00:22Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "I Used Virtual Monitors For a Week!",
+          "description": "In this video I try the Augmented Reality functionality of the VR headset Meta Quest Pro. The idea is to see if virtual monitors is something that can replace your physical desktop monitors. How functional is it right now? Do I see a potential future for this technology? Or, is it really just a gimmick to sell you a new device?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ewzIrYsoCHU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ewzIrYsoCHU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ewzIrYsoCHU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ewzIrYsoCHU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ewzIrYsoCHU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 48,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ewzIrYsoCHU"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "gfIKMAmGK8N-hGgTDdpDOiaIXhM",
+        "id": "VVVXcjBteDU5N0RuU0dMRmsxV2Z2U2tRLl9CdkdDTFgzQm9j",
+        "snippet": {
+          "publishedAt": "2022-10-05T11:05:33Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "I wasn’t expecting the sound at the end",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_BvGCLX3Boc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_BvGCLX3Boc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_BvGCLX3Boc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_BvGCLX3Boc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_BvGCLX3Boc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hallden",
+          "playlistId": "UUWr0mx597DnSGLFk1WfvSkQ",
+          "position": 49,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_BvGCLX3Boc"
+          },
+          "videoOwnerChannelTitle": "Hallden",
+          "videoOwnerChannelId": "UCWr0mx597DnSGLFk1WfvSkQ"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 267,
+      "resultsPerPage": 50
+    }
+  }
+  
