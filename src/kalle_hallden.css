@@ -1,0 +1,39 @@
+.video-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+    background-color: #f9f9f9;
+}
+
+.each-video {
+    display: block;
+    width: 300px;
+    text-decoration: none;
+    color: #333;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.each-video:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.video-thumbnail {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.video-title {
+    margin: 10px 0 0;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: #555;
+}

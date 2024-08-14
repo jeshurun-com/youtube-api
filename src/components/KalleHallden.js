@@ -1,5 +1,21 @@
-fetch('https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=500&playlistId=UUWr0mx597DnSGLFk1WfvSkQ&key=AIzaSyAXepgz7hf27r3wCilGULIpGszcmXRB99g')
-.then(response => response.json())
-.then(data=>{
-    console.log(data.items[0]);
-})
+import React from 'react';
+import '../kalle_hallden.css';
+
+const KalleHallden = ({ videos }) => {
+    return (
+        <section className='video-section'>
+            {videos.length > 0 ? (
+                videos.map((element, index) => (
+                    <a key={index} target="_blank" href={`https://youtu.be/${element.snippet.resourceId.videoId}`} className="each-video">
+                        <img src={element.snippet.thumbnails.standard.url} alt={element.snippet.title} className='video-thumbnail'/>
+                        <h3 className='video-title'>{element.snippet.title}</h3>
+                    </a>
+                ))
+            ) : (
+                <h3>Loading...</h3>
+            )}
+        </section>
+    );
+};
+
+export default KalleHallden;
